@@ -1,13 +1,9 @@
 @import "tailwindcss";
 
 html:root {
-  background-color: white;
   color: black;
 }
 
-@theme {
-  --color-accent: #179800;
-}
 .sora-font {
   font-family: "Sora", serif;
 }
